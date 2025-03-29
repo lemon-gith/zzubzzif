@@ -3,8 +3,11 @@
 Fizzbuzz reverse engineering program.\
 Inspired by a coursework set by Imperial's Business School.
 
-## Fizzbuzz
+## Fizzbuzz Problem
 
+This uses a slightly updated [classic fizzbuzz](https://en.wikipedia.org/wiki/Fizz_buzz), but with characters/letters instead of fizz and buzz.
+
+But the challenge is that you're only given the output and have to figure out the input values, with the handicap of the `None` outputs having been removed, too D:
 
 
 ## Context
